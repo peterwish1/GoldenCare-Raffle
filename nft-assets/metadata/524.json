@@ -1,0 +1,21 @@
+{
+  "name": "Golden Care Ticket #524",
+  "symbol": "GCR",
+  "description": "Golden Care Raffle Ticket. This NFT represents a numbered entry into the Golden Care charity raffle.",
+  "image": "https://ipfs.io/ipfs/bafybeigag2agtuzf6utiymbdt727dyzyv5sramhri7zie7gl5sfcze6x2i",
+  "attributes": [
+    {
+      "trait_type": "Ticket Number",
+      "value": "524"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/bafybeigag2agtuzf6utiymbdt727dyzyv5sramhri7zie7gl5sfcze6x2i",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
